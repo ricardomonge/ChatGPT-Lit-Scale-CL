@@ -74,9 +74,13 @@ install.packages(c(
 
 
 ¹ Facultad de Educación, Universidad de Las Américas, Av. República 71, Santiago, Chile
+
 ² Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Av. Manuel Montt 948, Providencia, Chile
+
 ³ Grupo de Investigación en Educación STEM (GIE-STEM), Universidad de Las Américas, Chile
+
 ⁴ Facultad de Economía y Negocios, Universidad Andrés Bello, Talcahuano, Región del Biobío, Chile
+
 ⁵ Vicerrectoría Académica, Universidad Bernardo O’Higgins, Av. Viel 1497, Santiago, Chile
 
 
