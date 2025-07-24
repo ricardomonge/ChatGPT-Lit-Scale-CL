@@ -1,4 +1,4 @@
-# 📊 Data Dictionary: Variables in the ChatGPT Literacy Instrument Repository
+# 📊 Data Dictionary: Variables in the ChatGPT Literacy Instrument Repository (participants: Chilean university students)
 
 ## 📁 Dataset: `sociodemographic_judges.csv`
 
