@@ -1,4 +1,4 @@
-# Data and R Scripts for the Validation of the ChatGPT Literacy Scale
+# Data and R Scripts for Cultural Adaptation and Psychometric Validation of the ChatGPT Literacy Scale for University Students in Chile
 
 This repository contains R scripts and anonymized datasets used in the cultural adaptation and psychometric validation of a scale designed to assess **ChatGPT literacy** among university students in Chile.
 
@@ -69,21 +69,16 @@ install.packages(c(
 ## 👥 Authors and Affiliations
 
 - **Carlos Soto Del Río**¹  
-
-- **Ricardo Monge-Rogel**²*  
-
-- **Ricardo Fuentes-Lama**³  
-
-- **Héctor Fernández-Ochoa**⁴  
+- **Ricardo Monge-Rogel**²³   
+- **Ricardo Fuentes-Lama**⁴  
+- **Héctor Fernández-Ochoa**⁵  
 
 
-¹ Facultad de Educación, Universidad de Las Américas, Av. República 71, Santiago, Chile  
-
-² Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Av. Manuel Montt 948, Providencia, Chile  
-
-³ Facultad de Economía y Negocios, Universidad Andrés Bello, Talcahuano, Región del Biobío, Chile  
-
-⁴ Vicerrectoría Académica, Universidad Bernardo O’Higgins, Av. Viel 1497, Santiago, Chile  
+¹ Facultad de Educación, Universidad de Las Américas, Av. República 71, Santiago, Chile
+² Instituto de Matemática, Física y Estadística, Universidad de Las Américas, Av. Manuel Montt 948, Providencia, Chile
+³ Grupo de Investigación en Educación STEM (GIE-STEM), Universidad de Las Américas, Chile
+⁴ Facultad de Economía y Negocios, Universidad Andrés Bello, Talcahuano, Región del Biobío, Chile
+⁵ Vicerrectoría Académica, Universidad Bernardo O’Higgins, Av. Viel 1497, Santiago, Chile
 
 
 ---
@@ -110,4 +105,4 @@ If you use this repository or its materials in your work, please cite the associ
 
 **APA:**
 
-> Soto Del Río, C., Monge-Rogel, R., Fuentes-Lama, R., & Fernández-Ochoa, H. (2025). *Adaptación cultural y validación psicométrica de la Escala de Literacidad en ChatGPT para estudiantes universitarios en Chile*.
+> Soto Del Río, C., Monge-Rogel, R., Fuentes-Lama, R., & Fernández-Ochoa, H. (2025). *Data and R Scripts for the Cultural Adaptation and Psychometric Validation of the ChatGPT Literacy Scale for University Students in Chile (v1.0.0) [Data set]*. Zenodo. https//doi.org.
