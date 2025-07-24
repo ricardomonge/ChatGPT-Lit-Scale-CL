@@ -59,9 +59,8 @@ install.packages(c(
 1. Clone or download this repository.
 2. Open each R script in your preferred R environment.
 3. Run the scripts in the following order for full analysis pipeline:
-   1. `pilot_study.R`
-   2. `content_validation.R`
-   3. `psychometric_properties.R`
+   1. `content_validation.R`
+   2. `psychometric_properties.R`
 4. Ensure the `/data` folder is in your working directory.
 
 ---
