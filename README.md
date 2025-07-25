@@ -108,4 +108,4 @@ If you use this repository or its materials in your work, please cite the associ
 
 **APA:**
 
-> Soto Del Río, C., Monge-Rogel, R., Fuentes-Lama, R., & Fernández-Ochoa, H. (2025). *Data and R Scripts for the Cultural Adaptation and Psychometric Validation of the ChatGPT Literacy Scale for University Students in Chile (v1.0.0) [Data set]*. Zenodo. https//doi.org.
+> Soto Del Río, C., Monge-Rogel, R., Fuentes-Lama, R., & Fernández-Ochoa, H. (2025). *Data and R Scripts for the Cultural Adaptation and Validation of the ChatGPT Literacy Scale for University Students in Chile (v1.0.0) [Data set]*. Zenodo. https//doi.org.
