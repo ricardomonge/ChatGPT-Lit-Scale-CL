@@ -15,7 +15,7 @@
 
 | Variable Name | Description | Type |
 |---------------|-------------|------|
-| `dimension` | Evaluated dimension (e.g., clarity, relevance, coherence) | Categorical |
+| `dimension` | Evaluated dimension (e.g., relevance, wording) | Categorical |
 | `CT1` | Rating assigned by an expert to item CT1 | Ordinal |
 | `CT2` | Rating assigned by an expert to item CT2 | Ordinal |
 | `CT3` | Rating assigned by an expert to item CT3 | Ordinal |
