@@ -2,6 +2,8 @@
 
 This repository contains R scripts and anonymized datasets used in the cultural adaptation and validation of a scale designed to assess **ChatGPT literacy** among university students in Chile.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16416533.svg)](https://doi.org/10.5281/zenodo.16416533)
+
 ---
 
 ## 📁 Repository Structure
