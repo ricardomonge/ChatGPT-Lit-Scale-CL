@@ -1,4 +1,4 @@
-# Data and R Scripts for Cultural Adaptation and Psychometric Validation of the ChatGPT Literacy Scale for University Students in Chile
+# Data and R Scripts for Cultural Adaptation and Validation of the ChatGPT Literacy Scale for University Students in Chile
 
 This repository contains R scripts and anonymized datasets used in the cultural adaptation and psychometric validation of a scale designed to assess **ChatGPT literacy** among university students in Chile.
 
