@@ -1,1 +1,17 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Soto Del Río"
+    given-names: "Carlos"
+  - family-names: "Monge-Rogel"
+    given-names: "Ricardo"
+  - family-names: "Fuentes-Lama"
+    given-names: "Ricardo"
+  - family-names: "Fernández-Ochoa"
+    given-names: "Héctor"
+title: "Data and R Scripts for Cultural Adaptation and Validation of the ChatGPT Literacy Scale for University Students in Chile"
+type: dataset
+version: 1.0.1
+doi: 10.5281/zenodo.16416533
+date-released: 2025-07-01
+url: "https://doi.org/10.5281/zenodo.16416533"
