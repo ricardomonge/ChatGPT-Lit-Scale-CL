@@ -6,7 +6,7 @@ This repository contains R scripts and anonymized datasets used in the cultural 
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                              # Contains anonymized datasets and documentation
@@ -23,14 +23,14 @@ This repository contains R scripts and anonymized datasets used in the cultural 
 
 ---
 
-## 📊 Description of Scripts
+## Description of Scripts
 
 - `content_validation.R`: Computes Aiken’s V and confidence intervals for expert judgments of item relevance and clarity.
 - `psychometric_properties.R`: Runs exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and reliability/validity metrics.
 
 ---
 
-## 📂 Data Overview
+## Data Overview
 
 | File                         | Description                                                                 |
 |------------------------------|-----------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ All datasets are fully anonymized and comply with institutional and ethical rese
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 To reproduce the analyses, please ensure you have the following R packages installed:
 
@@ -56,7 +56,7 @@ install.packages(c(
 
 ---
 
-## ▶️ How to Reproduce the Analyses
+## How to Reproduce the Analyses
 
 1. Clone or download this repository.
 2. Open each R script in your preferred R environment.
@@ -67,7 +67,7 @@ install.packages(c(
 
 ---
 
-## 👥 Authors and Affiliations
+## Authors and Affiliations
 
 - **Carlos Soto Del Río**¹  
 - **Ricardo Monge-Rogel**²³   
@@ -88,7 +88,7 @@ install.packages(c(
 
 ---
 
-## 🔒 Data Provenance and Ethical Compliance
+## Data Provenance and Ethical Compliance
 
 The datasets in this repository were collected as part of a research project aimed at adapting and validating the ChatGPT Literacy Scale for university students in Chile.
 
@@ -98,13 +98,13 @@ All data are fully anonymized and provided solely for academic transparency and 
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use this repository or its materials in your work, please cite the associated article:
 
