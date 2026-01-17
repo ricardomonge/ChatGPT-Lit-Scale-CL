@@ -191,14 +191,28 @@ AC =~ AC1+AC2+AC3+AC4
 HE =~ HE1+HE2+HE3+HE4
 '
 
-CFA_cinco <- lavaan::cfa(model = cincofactores, data = df_AFC, 
-                         ordered = names(df_AFC),
-                         estimator = "DWLS", representation = "LISREL")
+CFA_cinco <- cfa(
+  model = cincofactores,
+  data  = df_AFC,
+  ordered = names(df_AFC),     # idealmente: vector con SOLO los ítems Likert
+  estimator = "WLSMV",
+  parameterization = "theta"   # recomendado con ordinales (varianzas de error)
+  # representation = "LISREL"  # no es necesario; puedes omitirlo
+)
 
-# Fit indices
-fitMeasures(CFA_cinco, c("chisq", "df", "pvalue", "gfi", "rmsea", "srmr", 
-                         "cfi", "tli", "agfi", "pnfi", "ifi"))
-# summary(CFA_cinco, fit.measures = TRUE, standardized = TRUE)
+fm <- fitMeasures(
+  CFA_cinco,
+  c("chisq.scaled","df.scaled","pvalue.scaled",
+    "cfi.scaled","tli.scaled",
+    "rmsea.scaled","rmsea.ci.lower.scaled","rmsea.ci.upper.scaled",
+    "srmr")
+)
+
+cat(sprintf("χ²robusto(%.0f)=%.2f, p=%.3f; CFIrob=%.3f; TLIrob=%.3f; RMSEArob=%.3f (IC90%% %.3f–%.3f); SRMR=%.3f\n",
+            fm["df.scaled"], fm["chisq.scaled"], fm["pvalue.scaled"],
+            fm["cfi.scaled"], fm["tli.scaled"],
+            fm["rmsea.scaled"], fm["rmsea.ci.lower.scaled"], fm["rmsea.ci.upper.scaled"],
+            fm["srmr"]))
 
 # Parameter extraction
 parameterEstimates(CFA_cinco, standardized = TRUE) %>% 
