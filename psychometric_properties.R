@@ -165,7 +165,7 @@ corrplot(salida_matriz, add = TRUE, type = "lower", method = "number",
 
 # Determine number of factors
 resultado_nfactors <- n_factors(df_EFA, cor = salida_matriz, 
-                                rotation = "varimax",
+                                rotation = "oblimin",
                                 algorithm = "wls", n = dim(df_EFA)[1], 
                                 score = "regression")
 
@@ -175,9 +175,9 @@ plot(resultado_nfactors) + ggplot2::theme_bw()
 df_EFA <- as.data.frame(lapply(df_EFA, as.integer))
 
 # Run EFA with 5 factors
-RDAfactor <- fa(df_EFA, nfactors = 5, fm = "wls", rotate = "varimax", 
+RDAfactor <- fa(df_EFA, nfactors = 5, fm = "wls", rotate = "oblimin", 
                 cor = "poly")
-print(RDAfactor, digits = 3, cut = .45, sort = FALSE)
+print(RDAfactor, digits = 3, cut = .40, sort = FALSE)
 
 # =============================================================================
 # Confirmatory Factor Analysis (CFA) ------------------------------------------
