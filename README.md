@@ -15,6 +15,7 @@ This repository is associated with the following peer-reviewed article:
 > https://doi.org/10.1007/s12144-026-09314-z
 
 The study presents the cultural adaptation and psychometric validation of the ChatGPT Literacy Scale (CLS) for university students in Chile. The validation process included expert judgment, data from 620 students across three Chilean universities, and exploratory and confirmatory factor analyses. The results support the reliability and validity of the adapted instrument for assessing competencies related to the critical, ethical, communicative, technical, and creative use of ChatGPT in higher education.
+
 ---
 
 ## Repository Structure
