@@ -5,6 +5,17 @@ This repository contains R scripts and anonymized datasets used in the cultural 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16416533.svg)](https://doi.org/10.5281/zenodo.16416533)
 
 ---
+## Associated Publication
+
+This repository is associated with the following peer-reviewed article:
+
+> Del Río, C. S., Monge-Rogel, R., Fuentes-Lama, R., et al. (2026).  
+> *Cultural adaptation and validation of a ChatGPT literacy scale for university students in Chile*.  
+> Current Psychology, 45, Article 778.  
+> https://doi.org/10.1007/s12144-026-09314-z
+
+The study presents the cultural adaptation and psychometric validation of the ChatGPT Literacy Scale (CLS) for university students in Chile. The validation process included expert judgment, data from 620 students across three Chilean universities, and exploratory and confirmatory factor analyses. The results support the reliability and validity of the adapted instrument for assessing competencies related to the critical, ethical, communicative, technical, and creative use of ChatGPT in higher education.
+---
 
 ## Repository Structure
 
