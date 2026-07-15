@@ -37,7 +37,7 @@ The study presents the cultural adaptation and psychometric validation of the Ch
 
 ## Description of Scripts
 
-- `content_validation.R`: Computes Aiken’s V and confidence intervals for expert judgments of item relevance and clarity.
+- `content_validation.R`: Computes Aiken’s V and confidence intervals for expert judgments of item relevance and wording.
 - `psychometric_properties.R`: Runs exploratory factor analysis (EFA), confirmatory factor analysis (CFA), and reliability/validity metrics.
 
 ---
