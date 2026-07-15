@@ -9,7 +9,7 @@ This repository contains R scripts and anonymized datasets used in the cultural 
 
 This repository is associated with the following peer-reviewed article:
 
-> Del Río, C. S., Monge-Rogel, R., Fuentes-Lama, R., et al. (2026).  
+> Del Río, C. S., Monge-Rogel, R., Fuentes-Lama, R., Fernández-Ochoa, H. (2026).  
 > *Cultural adaptation and validation of a ChatGPT literacy scale for university students in Chile*.  
 > Current Psychology, 45, Article 778.  
 > https://doi.org/10.1007/s12144-026-09314-z
