@@ -3,6 +3,12 @@
 This repository contains R scripts and anonymized datasets used in the cultural adaptation and validation of a scale designed to assess **ChatGPT literacy** among university students in Chile.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16416533.svg)](https://doi.org/10.5281/zenodo.16416533)
+[![Article DOI](https://img.shields.io/badge/Article-10.1007%2Fs12144--026--09314--z-blue.svg)](https://doi.org/10.1007/s12144-026-09314-z)
+[![License: MIT](https://img.shields.io/badge/Code_License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Data License: CC BY 4.0](https://img.shields.io/badge/Data_License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![R Version](https://img.shields.io/badge/R-%3E%3D%204.3.0-276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
+[![Open Science](https://img.shields.io/badge/Open_Science-Open_Data_%26_Code-2ea44f.svg)](https://github.com/ricardomonge/ChatGPT-Lit-Scale-CL)
+[![Reproducible](https://img.shields.io/badge/Reproducible-renv-blue.svg)](https://rstudio.github.io/renv/)
 
 ---
 ## Associated Publication
